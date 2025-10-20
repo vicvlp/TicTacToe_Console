@@ -35,7 +35,7 @@ A Python implementation of the classic Tic-Tac-Toe game for two players in the c
 
 ```bash
 # Clone or download the repository
-git clone <repository-url>
+git clone <[repository-url](https://github.com/vicvlp/TicTacToe_Console.git)>
 
 # Navigate to the directory
 cd TicTacToe
