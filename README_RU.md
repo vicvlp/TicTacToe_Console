@@ -31,7 +31,13 @@
 
 *   Python 3.x
 
-## Запуск
-
+## Установка и запуск
 ```bash
+# Clone or download the repository
+git clone https://github.com/vicvlp/TicTacToe_Console.git
+
+# Navigate to the directory
+cd TicTacToe_Console
+
+# Run the game
 python TicTacToe_Console_Ru.py
